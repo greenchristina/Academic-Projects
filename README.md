@@ -2,7 +2,7 @@
 Projects done in ArcGIS Pro during my BS program at the University of Kansas.
 
 ## How Consistent is Kansas Precipitation? 
-![Alt text]()
+![Alt text](CartoMapOne.pdf)
 This project was for a cartographic design class where I got to experiment with different techniques. 
 
 
